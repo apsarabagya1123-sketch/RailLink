@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2e32415-b0c9-45e9-a8bf-22559466833d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="310n2ainkFRVdK6ImZKeWAqeEjN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.RailLinkApplication.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/RailLink/demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver.localdb&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\RailLink\demo\src\main\resources\static\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" uri="https://github.com/ektogamat/threejs-graces.git">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="demo" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RailLinkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="raillink" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.raillink.RailLinkApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2e32415-b0c9-45e9-a8bf-22559466833d" name="Changes" comment="" />
+      <created>1754669651376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754669651376</updated>
+      <workItem from="1754669652684" duration="197000" />
+      <workItem from="1754670100777" duration="86000" />
+      <workItem from="1754671523029" duration="337000" />
+      <workItem from="1754672253123" duration="515000" />
+      <workItem from="1754674598744" duration="962000" />
+      <workItem from="1754676227402" duration="1147000" />
+      <workItem from="1754679173654" duration="68000" />
+      <workItem from="1754680045082" duration="328000" />
+      <workItem from="1754681247398" duration="330000" />
+      <workItem from="1754682260937" duration="744000" />
+      <workItem from="1754683895909" duration="3078000" />
+      <workItem from="1754687200934" duration="4953000" />
+      <workItem from="1754692511854" duration="2079000" />
+      <workItem from="1754725761820" duration="2271000" />
+      <workItem from="1754769114779" duration="303000" />
+      <workItem from="1754769439443" duration="71000" />
+      <workItem from="1754769780096" duration="509000" />
+      <workItem from="1754770303415" duration="635000" />
+      <workItem from="1754800692391" duration="431000" />
+      <workItem from="1754801139454" duration="4385000" />
+      <workItem from="1754819183997" duration="836000" />
+      <workItem from="1754821142780" duration="125000" />
+      <workItem from="1754821365097" duration="899000" />
+      <workItem from="1754838316907" duration="639000" />
+      <workItem from="1754838971602" duration="317000" />
+      <workItem from="1754855337623" duration="14000" />
+      <workItem from="1754855446849" duration="6000" />
+      <workItem from="1754897509610" duration="2222000" />
+      <workItem from="1755077675487" duration="196000" />
+      <workItem from="1755078668598" duration="2000" />
+      <workItem from="1755372861797" duration="8000" />
+      <workItem from="1755404590516" duration="4000" />
+      <workItem from="1755448793774" duration="162000" />
+      <workItem from="1755934579051" duration="4000" />
+      <workItem from="1756060235337" duration="735000" />
+      <workItem from="1756212335430" duration="777000" />
+      <workItem from="1757050262764" duration="1511000" />
+      <workItem from="1757911437048" duration="8856000" />
+      <workItem from="1758042115884" duration="1408000" />
+      <workItem from="1758044519217" duration="1388000" />
+      <workItem from="1758045932306" duration="2804000" />
+      <workItem from="1758049065500" duration="541000" />
+      <workItem from="1758049665682" duration="306000" />
+      <workItem from="1758079249500" duration="3748000" />
+      <workItem from="1758088390504" duration="2857000" />
+      <workItem from="1758096196657" duration="1283000" />
+      <workItem from="1758298833852" duration="3250000" />
+      <workItem from="1758305666179" duration="1000" />
+      <workItem from="1758482030324" duration="836000" />
+      <workItem from="1758482882054" duration="46000" />
+      <workItem from="1758535507429" duration="721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo$RailLinkApplication.ic" NAME="RailLinkApplication Coverage Results" MODIFIED="1758048731190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
