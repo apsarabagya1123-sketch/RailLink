@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="f4c96bf1-947f-4e4d-ab1a-db76e393211d" name="ssms_raillink Mapping">
+      <data-sources db="d810d4a1-7cab-4074-ab32-986886067131" ddl="1b5b8e87-028a-440a-a525-919dcd3c2358" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+  </component>
+</project>
